@@ -1,1 +1,3 @@
 # -Newcomer_sheet-codeforces-sheet-2
+
+contribute code of probelm sovled in other ways...
